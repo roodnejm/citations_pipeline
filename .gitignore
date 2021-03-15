@@ -1,0 +1,10 @@
+.DS_Store
+.idea/
+configs/*.json
+src/__pycache__
+src/libs/*
+src/bin
+dist
+data/input/*
+data/processed/*
+data/output/*
