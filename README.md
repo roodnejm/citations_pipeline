@@ -1,5 +1,5 @@
-Implement a Spark job that generate a json file that represents a graph 
-that link drugs to medical publication, clinical trials and journals. 
+Implement a Spark job that generate a json file representing a graph 
+linking drugs to medical publication, clinical trials and journals. 
 
 module package allows to:
 - import files from various sources
